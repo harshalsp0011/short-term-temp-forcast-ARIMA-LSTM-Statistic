@@ -60,7 +60,7 @@ summary(arima_model)
 # Forecast
 forecast <- forecast(arima_model, h = 12)
 autoplot(forecast) +
-  labs(title = "ARIMA Forecast",
+  labs(title = "ARIMA Forecast", 
        y = "Temperature (°C)",
        x = "Time")
 ```
