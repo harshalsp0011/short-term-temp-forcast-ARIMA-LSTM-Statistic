@@ -1,1 +1,1 @@
-This is file for short_term_temp_forcast_ARIMA_LSTM_STAT
+This is file for short-term-temp-forcast-ARIMA-LSTM-Statistic
